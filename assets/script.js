@@ -1,4 +1,7 @@
+
+ /*Original Js code below \\\\\\*\*\*\*\**/
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
+
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
 
 function listTopics() {
@@ -22,5 +25,5 @@ function selectTopic() {
 }
 console.log('Here are some random things about the topics that I have barely any understanding of while doing my prework')
 listTopics()
-console.log('Which topic should i annoy a tutor with first?')
+console.log('Which topic should I annoy a tutor with first?')
 selectTopic()

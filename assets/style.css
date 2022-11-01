@@ -15,6 +15,7 @@ h1,
 h2 {
     text-align: center;
 }
+
 img {
     display: block;
     height: 50px;
@@ -31,11 +32,11 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
-  }
+}
   
-  .card {
+ .card {
     width: 80%;
     margin: 40px auto;
     border: 5px solid gray;
     box-shadow: 5px 10px #49DBE3;
-  }
+}
